@@ -1,6 +1,6 @@
-# Base16 Them for Doom Emacs
+# Base16 Template for Doom Emacs
 
-[Base16](http://chriskempson.com/projects/base16/) theme for the [doom emacs distribution](https://github.com/hlissner/doom-emacs).
+[Base16](http://chriskempson.com/projects/base16/) template for the [doom emacs distribution](https://github.com/hlissner/doom-emacs).
 
 # License
 
