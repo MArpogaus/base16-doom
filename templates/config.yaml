@@ -1,6 +1,3 @@
-default: 
-    extension: .el
-    output: themes
-light:
-    extension: .el
-    output: themes
+default:
+  extension: .el
+  output: themes
